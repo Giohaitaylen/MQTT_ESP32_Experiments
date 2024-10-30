@@ -2,7 +2,7 @@
 ## Cài Đặt Mosquitto
 ## Thiết lập cổng 1883 và 8883 với TLS 
 ## Tải MQTTX
-## Kết nối qua cổng 1883 (không mã hóa):
+## Kết nối qua cổng 1883:
 - Mở MQTT client và nhập địa chỉ IP máy tính (hoặc localhost) và cổng 1883.
 Nhấn Connect và kiểm tra kết nối
 ## Kết nối qua cổng 8883 (TLS):
