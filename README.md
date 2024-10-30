@@ -8,6 +8,6 @@ Nhấn Connect và kiểm tra kết nối
 ## Kết nối qua cổng 8883 (TLS):
 - Điền địa chỉ IP (hoặc localhost), đặt cổng 8883, và bật TLS/SSL.
 Nhấn Connect và kiểm tra kết nối
-![Hình ảnh](./images/hinh3.png "Hình ảnh")
+![Hình ảnh](./images/test.png "Hình ảnh")
 **Hình chụp màn hình**
 =======
