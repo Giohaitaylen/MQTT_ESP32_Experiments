@@ -1,5 +1,7 @@
 ##  Chỉnh sửa
-- Thêm các thư viện mqtt.h và wifi.h vào src và include vào main.cpp
+
+- Thêmcác thư viện mqtt.h và wifi.h vào src và include vào main.cpp
+
 ## Bố trí thí nghiệm 
 
 - Dùng thư viện PubSubClient trên ESP32 kết nối với một MQTT Broker (trên đám mây hoặc local đều được).
