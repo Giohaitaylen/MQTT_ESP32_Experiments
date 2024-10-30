@@ -4,10 +4,8 @@
 #include "wifi_connect.h"
 #include <WiFiClientSecure.h>
 #include "ca_cert.h"
-
-#include "secrets/mqtt.h"
 #include <PubSubClient.h>
-
+#include "secrets/mqtt.h"
 #include <Ticker.h>
 
 namespace
